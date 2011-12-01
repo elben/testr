@@ -1,0 +1,5 @@
+#!/bin/sh
+
+mkdir -p ~/bin
+ln -s `pwd`/testr.rb ~/bin/t
+chmod +x ~/bin/t
