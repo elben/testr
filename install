@@ -1,5 +1,5 @@
 #!/bin/sh
 
 mkdir -p ~/bin
-ln -s `pwd`/testr.rb ~/bin/t
-chmod +x ~/bin/t
+ln -s `pwd`/testr.rb ~/bin/testr
+chmod +x ~/bin/testr
